@@ -1,7 +1,7 @@
 package com.example.geektrust.command;
 
-import com.example.mymoney.exception.CommandNotFoundException;
-import com.example.mymoney.utils.CommandType;
+import com.example.geektrust.exception.CommandNotFoundException;
+import com.example.geektrust.utils.CommandType;
 
 public class CommandFactory {
     public Command createCommand(String inputLine) {

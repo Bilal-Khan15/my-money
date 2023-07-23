@@ -1,6 +1,6 @@
 package com.example.geektrust.command;
 
-import com.example.mymoney.exception.CommandNotFoundException;
+import com.example.geektrust.exception.CommandNotFoundException;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

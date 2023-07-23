@@ -1,6 +1,6 @@
 package com.example.geektrust.model;
 
-import com.example.mymoney.utils.Constants;
+import com.example.geektrust.utils.Constants;
 import lombok.Getter;
 import lombok.Setter;
 
